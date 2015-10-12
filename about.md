@@ -4,9 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Hi! I'm a web developer in training from Dayton, Ohio. Currently I work in a non-technical role at a music publishing company, but much of my spare time is spent learning to code. So far I've focused on HTML, CSS, and JavaScript. I've also dabbled a bit in Ruby on Rails. When I'm not at the computer, I love going on bike rides, watching horror films, and playing video games.
+A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
+[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
 
-I'm really excited to talk about my code journey on this blog - thanks for following along!
+You can **download** the theme here:
+[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
 
-* Github: http://github.com/brookesargent
-* Twitter: @codegirlbrooke
+You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+
+You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+
+You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)

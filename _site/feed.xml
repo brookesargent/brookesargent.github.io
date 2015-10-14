@@ -5,9 +5,39 @@
     <description></description>
     <link>http://brookesargent.github.io/</link>
     <atom:link href="http://brookesargent.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 13 Oct 2015 10:08:00 -0400</pubDate>
-    <lastBuildDate>Tue, 13 Oct 2015 10:08:00 -0400</lastBuildDate>
+    <pubDate>Wed, 14 Oct 2015 07:46:43 -0400</pubDate>
+    <lastBuildDate>Wed, 14 Oct 2015 07:46:43 -0400</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>My Favorite &quot;Learn to Code&quot; Resources</title>
+        <description>&lt;p&gt;Like many others, I consider myself a self-taught programmer. This can definitely be a challenging path to go down, but there are also a lot of benefits to learning on your own. One reason that I&amp;#39;ve loved learning to code on my own versus going back to school for it is that I am able to create my own curriculum and steer my learning based on what I find interesting. &lt;/p&gt;
+
+&lt;p&gt;The availability of free and affordable online resources for learning to code is a &lt;em&gt;huge&lt;/em&gt; part of why this is possible. There is no way I would have made it as far as I have thus far without some of these resources. I thought they could be useful to some of you getting your start as well so I am listing the resources that I&amp;#39;ve found most useful on my journey learning to code. This is by no means a list of everything I&amp;#39;ve used (there have been a lot!), but these are definitely the ones I&amp;#39;ve used the most.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://teamtreehouse.com&quot;&gt;Treehouse&lt;/a&gt; and &lt;a href=&quot;http://www.codeschool.com&quot;&gt;Codeschool&lt;/a&gt;
+I&amp;#39;m sure many of you have already heard of these websites, but I can&amp;#39;t emphasize enough how useful they&amp;#39;ve been to me. Watching a video (or reading the transcript of the video of reading is better for you) and then doing quizzes and challenges related to that material immediately after helped to solidify concepts so much quicker than if I had just been reading or watching videos. &lt;/p&gt;
+
+&lt;p&gt;When I was completely new to programming I found Treehouse to be easier to understand and then if I wanted a more intermediate understanding of a topic, I&amp;#39;d go to CodeSchool. Now I use them both interchangeably when I want to learn more about a new technology or review something that I&amp;#39;ve already learned but need more practice with.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Podcasts
+I have a 30 minute commute to work every day and decided to make the 30 minutes on my way home a time for learning. I listen to various podcasts but my two favorites have been &lt;a href=&quot;www.codenewbie.org&quot;&gt;Code Newbie&lt;/a&gt; and &lt;a href=&quot;reactive.audio&quot;&gt;Reactive&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;Code Newbie is really helpful for motivation because each week you hear the story of a different programmer. They walk you through how they got their start and what helped them along the way. It&amp;#39;s great to get so many different perspectives and hear about all of the different jobs you can do as programmer. The Code Newbie community is also very welcoming on Twitter and they do Twitter chats every Wednesday at 9 pm EST.&lt;/p&gt;
+
+&lt;p&gt;Reactive is a wonderful podcast to listen to if you want to stay informed about current events in tech and programming. As a newbie, the things they talk about occasionally go over my head but for the most part they relay the information in way that is very easy to understand even without a lot of experience. And if I don&amp;#39;t know what they&amp;#39;re talking about then I can go look it up and learn something new!&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;codepen.io&quot;&gt;CodePen&lt;/a&gt;
+Once I got my feet wet with HTML, CSS, and JavaScript and had a basic understanding of it, CodePen became a great place for me to go and try new things or practice what I&amp;#39;d learned. As you type your code, the results are updated in real-time so you can see exactly what each line of code does. This is a great way to make connections about how to get sites and apps to look the way you&amp;#39;d like them to. Most recently I&amp;#39;ve been using CodePen to demo code for a personal portfolio site I&amp;#39;d like to create. You&amp;#39;ll also find a ton of people using CodePen to create art with code so if you&amp;#39;re creative or artistic, that might appeal to you.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://www.vikingcodeschool.com/prep&quot;&gt;Viking Code School Prep Work&lt;/a&gt;
+Even if code school isn&amp;#39;t something that you&amp;#39;re preparing for, the Viking Code School prep work is fantastic for getting yourself up to speed on some basic to intermediate level concepts. It takes you through what you need to know for HTML, CSS, Git, Ruby, and more. This prep work gives more than just an overview and if you go through it from start to finish, you&amp;#39;ll come out of it with a few projects as well.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Tue, 13 Oct 2015 00:00:00 -0400</pubDate>
+        <link>http://brookesargent.github.io/2015/10/13/learn_to_code_resources.html</link>
+        <guid isPermaLink="true">http://brookesargent.github.io/2015/10/13/learn_to_code_resources.html</guid>
+        
+        
+      </item>
     
   </channel>
 </rss>

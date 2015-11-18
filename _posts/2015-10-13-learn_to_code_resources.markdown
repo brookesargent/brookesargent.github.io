@@ -5,6 +5,7 @@ date: 2015-10-13
 categories:
 tags:
 image:
+comments: true
 ---
 
 Like many others, I consider myself a self-taught programmer. This can definitely be a challenging path to go down, but there are also a lot of benefits to learning on your own. One reason that I've loved learning to code on my own versus going back to school for it is that I am able to create my own curriculum and steer my learning based on what I find interesting. 

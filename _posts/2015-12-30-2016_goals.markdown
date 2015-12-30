@@ -1,0 +1,20 @@
+2015 was a lot of things for me. It marked a year of being a college graduate and all of the fun that comes with being a "real adult". I picked up what I thought would be a casual hobby (programming) and really fell in love with it and how it mentally challenges me. I set coding goals for myself throughout the year and progressed much further than I could have expected. I had my fair share of failures as well but I learned something every time I failed and can apply what I learned to make 2016 my best year yet. I have a ton that I'd like to accomplish, but every morning I wake up is another chance to make it happen.
+
+1. Launch a website
+I spent a good chunk of time in 2015 creating a portfolio site on CodePen for FreeCodeCamp. This project taught me a lot about HTML + CSS and how to get things to look and behave the way I visualize them in my head. In 2016 I'd like to launch the real thing.
+
+2. Blog more
+I created this blog so I could synthesize my learning, but I really haven't used it much. In 2016, I'd like to do a blog post a month at the very least, possibly 2-4 posts a month.
+
+3. Contine on my FreeCodeCamp path
+This site is so great for learning JavaScript because it's entirely self-paced. I can go as quickly or as slowly as I need to based on what's going on in my life. During the second half of 2015, I got through most of the front-end develpment section on the site. In 2016, I want to finish that section as well as plunge on into the back-end section.
+
+4. Participate in code review
+To get better as a developer, you have to let other people see your code. It's something I've felt shy about but it's time to rip off the band-aid and let others see my code more. I know there are so many friendly, helpful, and very smart people in the coding community that I can learn so much from. 
+
+5. Get healthy
+I know this is a very typical New Year's goal but in 2014, I was getting on track with exercise and eating better. The stress of student loan bills and life in general got the best of me in 2015 and my health definitely went down the drain. Doing meal prep each week is something I need to do both for my health and to reduce stress as well as exercise multiple times a week if not daily. I think I might start each day with a 10-20 minute walk with my dog, bike a couple times each week, and do pilates 6 of the 7 days in a week. 
+
+6. Self-care in general
+Although I have lofty goals and would like to take a step towards accomplishing them every day, I need to learn to let my body and mind rest when they need to. I'd like to read a few books for pleasure this year when my brain needs a rest from code. I've tried taking up meditating before but didn't put a whole lot of effort in. In 2016, I'd like to revisit it and see if it's something that can work for me (send me recommendations if it's something you do!) Making my apartment more home-y and comfortable will also be a huge part of 2016 self-care so I can feel like I have my own sanctuary away from everything else.
+

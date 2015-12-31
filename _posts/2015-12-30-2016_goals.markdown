@@ -1,3 +1,13 @@
+---
+layout: post
+title: 2016 Goals
+date: 2015-12-30 
+categories:
+tags:
+image:
+comments: true
+---
+
 2015 was a lot of things for me. It marked a year of being a college graduate and all of the fun that comes with being a "real adult". I picked up what I thought would be a casual hobby (programming) and really fell in love with it and how it mentally challenges me. I set coding goals for myself throughout the year and progressed much further than I could have expected. I had my fair share of failures as well but I learned something every time I failed and can apply what I learned to make 2016 my best year yet. I have a ton that I'd like to accomplish, but every morning I wake up is another chance to make it happen.
 
 1. Launch a website

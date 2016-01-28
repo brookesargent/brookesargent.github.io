@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Hello and welcome to my code journey! I'm a web developer in training based in the Dayton, OH area. Currently I work in a non-technical role at a music publishing company, but much of my spare time is spent learning to code. On this blog I hope to describe my learning experiences, what works for me, and what I've struggled with. When I'm not at the computer, I enjoy bike rides, horror films, sci-fi television (talk to me about Orphan Black!), and baking.
+Hi there! Welcome to my code journey! My name is Brooke and I'm a programmer based in the Dayton, OH area. Currently I work as a Microsoft Dynamics AX programmer at a music publishing company, but I also spend a lot of spare time learning JavaScript. On this blog I hope to describe my learning experiences, what works for me, and what I've struggled with most. When I'm not at the computer, I enjoy baking, bike rides, tv (especially sci-fi!), and horror films.

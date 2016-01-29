@@ -4,7 +4,7 @@ title: How to Make the Web Better
 date: 2016-01-29 
 categories:
 tags: the shift
-image:
+image: /assets/article_images/2016-01-29-how_to_make_the_web_better/shift.jpg
 comments: true
 ---
 
